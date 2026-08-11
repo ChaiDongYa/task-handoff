@@ -1,0 +1,4 @@
+interface:
+  display_name: "任务交接"
+  short_description: "跨账号延续本地任务的交接记录"
+  default_prompt: "使用 $task-handoff 为当前任务创建可跨账号续接的本地交接记录。"
